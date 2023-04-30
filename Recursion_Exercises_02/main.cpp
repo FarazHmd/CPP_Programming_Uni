@@ -1,0 +1,46 @@
+#include <iostream>
+/*
+ *  Factorial calculate Using recursion
+ */
+int fact_finder( long int x);
+using namespace std;
+int main() {
+    char sw;
+   long int x;
+   do  {
+        cout << "For calculate Factorial >> |'f'| "<<endl;
+        cout << "For Exit >> |'e'|\n>> ";
+        cin >> sw;
+        switch (sw) {
+            case 'e':
+            case 'E':
+                exit(0);
+            case 'F':
+            case 'f':
+                cout << "________________________________________________________________" << endl;
+                cout << "Enter your number to calculate Factorial !\a\n>>" << endl;
+                cin >> x;
+                cout << "Factorial of  " << x << "=" << fact_finder(x) << endl;
+                cout << "________________________________________________________________" << endl;
+                break;
+            default:
+                cout << "\a\aInvalid Input detected plz select valid opt!\n";
+                break;
+        }
+
+    }while (sw!='e');
+
+
+    return 0;
+}
+int fact_finder(long int x)
+{
+    if (x == 1)
+    {
+        return 1;
+    }else
+    {
+        return x*fact_finder(x-1);
+    }
+}
+//work from Mr_Hmd
