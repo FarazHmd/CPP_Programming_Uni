@@ -1,0 +1,3 @@
+C:/Users/Ghost/Desktop/Programming/CPP/NEW_00/cmake-build-debug/CMakeFiles/NEW_00.dir
+C:/Users/Ghost/Desktop/Programming/CPP/NEW_00/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ghost/Desktop/Programming/CPP/NEW_00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
