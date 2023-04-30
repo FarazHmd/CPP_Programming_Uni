@@ -11,4 +11,4 @@ Very interesting topics
 .
 .
 
-I hope this little resource can help you
+I hope this little resource can help you .
