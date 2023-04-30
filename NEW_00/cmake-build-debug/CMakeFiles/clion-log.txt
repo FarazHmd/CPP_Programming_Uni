@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -static -static-libgcc -static-libstdc++ -G "CodeBlocks - MinGW Makefiles" C:\Users\Ghost\Desktop\Programming\CPP\NEW_00
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Ghost/Desktop/Programming/CPP/NEW_00/cmake-build-debug
