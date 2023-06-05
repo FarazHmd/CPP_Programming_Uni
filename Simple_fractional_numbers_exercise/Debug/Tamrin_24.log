@@ -1,0 +1,3 @@
+﻿  Tamrin_24.cpp
+C:\Users\Mr.Ghost.127\source\repos\Tamrin_24\Tamrin_24.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tamrin_24.vcxproj -> C:\Users\Mr.Ghost.127\source\repos\Tamrin_24\Debug\Tamrin_24.exe
